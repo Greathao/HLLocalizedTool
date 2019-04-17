@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  国际化
+
+  Created by liuhao on 2018/5/7.
+  Copyright © 2018年 Beijing Mr Hi Network Technology Company Limited. All rights reserved.
+*/
+"Phone_login" = "ショートカット";
+"LoginTitle"  = "登録する";
+"inputPhone"  = "携帯番号";
+"inputPWD"    = "パスワード";
+"LogButton"   = "登録する";
+"ForgotPWDButton" = "パスワードを忘れる?";
+"NOAccount" = "口座は一つありませんか";
+"SignUp"  = "登録する";

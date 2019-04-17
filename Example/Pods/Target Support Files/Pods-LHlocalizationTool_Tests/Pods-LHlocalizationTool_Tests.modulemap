@@ -1,0 +1,6 @@
+framework module Pods_LHlocalizationTool_Tests {
+  umbrella header "Pods-LHlocalizationTool_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LHlocalizationTool",
+  "version": "0.1.0",
+  "summary": "A short description of LHlocalizationTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Greathao/LHlocalizationTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Greathao": "704550535@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Greathao/LHlocalizationTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LHlocalizationTool/Classes/**/*"
+}

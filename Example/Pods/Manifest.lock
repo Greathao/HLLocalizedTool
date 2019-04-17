@@ -1,0 +1,16 @@
+PODS:
+  - LHlocalizationTool (0.1.0)
+
+DEPENDENCIES:
+  - LHlocalizationTool (from `../`)
+
+EXTERNAL SOURCES:
+  LHlocalizationTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LHlocalizationTool: 5f363216a6d55610315897a91ac0c3188db06e1f
+
+PODFILE CHECKSUM: 112689b1993aa597a2afd45320520102afb0f85d
+
+COCOAPODS: 1.5.3

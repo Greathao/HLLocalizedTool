@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  国际化
+
+  Created by liuhao on 2018/5/7.
+  Copyright © 2018年 Beijing Mr Hi Network Technology Company Limited. All rights reserved.
+*/
+"Phone_login" = "Phone login";
+"LoginTitle"  = "LOGIN";
+"inputPhone"  = "YOUR PHONE";
+"inputPWD"    = "PASSWORD";
+"LogButton"   = "LOGIN";
+"ForgotPWDButton" = "Forgot password?";
+"NOAccount" = "Don't have an Account?";
+"SignUp"  = "SignUp";
+
